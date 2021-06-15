@@ -3,7 +3,7 @@
     <HeaderFAQ />
     <HeroSectionSmall>
       <div class="text-center">
-        <h1 class="text-6xl font-bold"> Preguntas Frequentes  </h1>
+        <h1 class="text-6xl font-bold"> Preguntas Frecuentes  </h1>
       </div>
     </HeroSectionSmall>
     <div class="max-w-7xl my-12 mx-auto p-8">
